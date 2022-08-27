@@ -19,7 +19,7 @@
 
  ### <picture> <img src = "https://c.tenor.com/POvAg2bcNnAAAAAi/linux-ethandud.gif" width = 30px>  </picture> Operating Systems
  
-<p align="center">
+<p align="left">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
@@ -30,7 +30,14 @@
 
 <br> 
 
----
+### <picture> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Microprocessor.gif/800px-Microprocessor.gif?20170811162148" width = 30px>  </picture> Microcontroller
+<p align="left">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Raspberry%20pi-272e29?style=plastic&logo=raspberrypi&logoColor=pink"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Arduino-364746?style=plastic&logo=Arduino&logoColor=00979D"></a>
+</p>
+<br> 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
