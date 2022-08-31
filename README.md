@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/thunderkex/thunderkex/blob/main/shitspace/hello.gif?raw=true"></h1>
+<h1 align="center"><picture><img src="https://github.com/thunderkex/thunderkex/blob/main/shitspace/hello.gif?raw=true"></picture></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Ha+ha!+I+am+here!;Told+you+a+storm+was+coming!" alt="Typing SVG" /></a>
 </p>
@@ -75,7 +75,7 @@
 [![Ko-Fi](https://img.shields.io/badge/saweria-%20-yellow?style=for-the-badge)](https://saweria.co/thunderkex) 
 
 <p align="center">
-<img src = "https://github.com/thunderkex/thunderkex/blob/main/shitspace/foot.gif?raw=true"/>
+<picture><img src = "https://github.com/thunderkex/thunderkex/blob/main/shitspace/foot.gif?raw=true"/></picture>
 <p align="center">
- Lets take a coffee break <img src="https://github.com/thunderkex/thunderkex/blob/main/shitspace/coffee.gif?raw=true" width="15">
+ Lets take a coffee break
 </p>
