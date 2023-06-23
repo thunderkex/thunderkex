@@ -64,14 +64,8 @@
  
 </details>
 	
-## 🐍 Lets eat some graph
+## <picture> <img src = "./shitspace/snake.gif?raw=true" width = 30px> </picture> Feeding the Snake
 	
 <p align = "center">
-	<img src = "https://raw.githubusercontent.com/thunderkex/thunderkex/output/grid-snake-ov.svg" alt = "Snake Game"/>
-</p>
-
-<p align="center">
-<picture><img src = "https://github.com/thunderkex/thunderkex/blob/main/shitspace/foot.gif?raw=true"/></picture>
-<p align="center">
- Lets take a coffee break
+	<img src = "https://raw.githubusercontent.com/thunderkex/thunderkex/output/grid-snake-ov.svg"/>
 </p>
