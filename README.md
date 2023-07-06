@@ -10,8 +10,8 @@
 ## <picture> <img src = "https://github.com/thunderkex/thunderkex/blob/main/shitspace/goma-cat.gif?raw=true" width = 50px>  </picture> About me
 <picture> <img align="right" src="https://github.com/thunderkex/thunderkex/blob/main/shitspace/bongo-cat-codes.gif?raw=true"></picture>
 
-- :robot: Full stack developer.
-- :grin: Useless (at something).
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Full stack developer.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="25" height="25" /> Useless (at something).
 
 ### <picture> <img src = "https://github.com/thunderkex/thunderkex/blob/main/shitspace/os.gif?raw=true" width = 30px> </picture> Operating Systems
  
@@ -60,7 +60,7 @@
 
 ----
 
-<a href="https://github.com/thunderkex"><img alt="thunderkex's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thunderkex&custom_title=thunderkex's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/thunderkex"><img alt="thunderkex's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thunderkex&custom_title=thunderkex's%20Contribution%20Graph&theme=react-dark" /></a>
  
 </details>
 	
@@ -69,3 +69,38 @@
 <p align = "center">
 	<img src = "https://raw.githubusercontent.com/thunderkex/thunderkex/output/grid-snake-ov.svg"/>
 </p>
+
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-174-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 2.3 MB Used in GitHub's Storage 
+ > 
+> 🏆 146 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 29 Private Repositories 
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+C++                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Makefile                 4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/thunderkex/thunderkex/main/assets/bar_graph.png)
+
+
+ Last Updated on 14/12/2023 06:49:10 UTC
+<!--END_SECTION:waka-->
