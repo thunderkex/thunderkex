@@ -72,7 +72,7 @@
 ## <picture> <img src = "https://github.com/thunderkex/thunderkex/blob/main/shitspace/metrics.gif?raw=true" width = 50px> </picture> Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-362-blue)
 
@@ -134,5 +134,5 @@ Makefile                 4 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 23/12/2023 00:31:43 UTC
+ Last Updated on 24/12/2023 00:35:49 UTC
 <!--END_SECTION:waka-->
