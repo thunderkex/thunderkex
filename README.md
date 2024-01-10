@@ -36,7 +36,7 @@
 
 ----
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thunderkex&theme=tokyonight_duo" alt="thunderkex" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=thunderkex&theme=tokyonight-duo&border_radius=20" alt="thunderkex" /></p>
 
 </details>
   
