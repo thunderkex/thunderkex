@@ -72,7 +72,7 @@
 ## <picture> <img src = "https://github.com/thunderkex/thunderkex/blob/main/shitspace/metrics.gif?raw=true" width = 50px> </picture> Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -105,15 +105,15 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      19 hrs 57 mins      █████████████████████████   99.96 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+PHP                      26 hrs 30 mins      █████████████████████████   99.97 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-mms                      19 hrs 58 mins      █████████████████████████   100.00 % 
+mms                      26 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -129,5 +129,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2024 00:32:18 UTC
+ Last Updated on 17/02/2024 00:32:14 UTC
 <!--END_SECTION:waka-->
