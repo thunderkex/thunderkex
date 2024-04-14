@@ -72,6 +72,8 @@
 ## <picture> <img src = "https://github.com/thunderkex/thunderkex/blob/main/shitspace/metrics.gif?raw=true" width = 50px> </picture> Dev Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2010%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.4%20million%20lines%20of%20code-blue)
@@ -103,14 +105,13 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C                        23 mins             █████████████████████████   98.50 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-common                   23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -126,5 +127,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2024 00:28:26 UTC
+ Last Updated on 14/04/2024 00:39:09 UTC
 <!--END_SECTION:waka-->
