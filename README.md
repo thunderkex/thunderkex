@@ -72,9 +72,9 @@
 ## <picture> <img src = "https://github.com/thunderkex/thunderkex/blob/main/shitspace/metrics.gif?raw=true" width = 50px> </picture> Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
@@ -105,19 +105,15 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      3 hrs 49 mins       ██████████████████████░░░   88.01 % 
-JavaScript               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+PHP                      3 hrs 54 mins       █████████████████████████   99.96 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-mms                      2 hrs 54 mins       █████████████████░░░░░░░░   67.01 % 
-cms                      54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-sync_db                  26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-wa-mmm                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+mms                      3 hrs               ███████████████████░░░░░░   76.65 % 
+cms                      54 mins             ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
 
 💻 Operating System: 
-Windows                  4 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -133,5 +129,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2024 00:41:32 UTC
+ Last Updated on 27/08/2024 00:38:49 UTC
 <!--END_SECTION:waka-->
