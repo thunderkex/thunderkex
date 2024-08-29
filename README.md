@@ -72,7 +72,7 @@
 ## <picture> <img src = "https://github.com/thunderkex/thunderkex/blob/main/shitspace/metrics.gif?raw=true" width = 50px> </picture> Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -105,15 +105,15 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      3 hrs 54 mins       █████████████████████████   99.96 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+PHP                      10 hrs 39 mins      █████████████████████████   99.99 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-mms                      3 hrs               ███████████████████░░░░░░   76.65 % 
-cms                      54 mins             ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+cms                      6 hrs 43 mins       ████████████████░░░░░░░░░   63.01 % 
+mms                      3 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   36.99 % 
 
 💻 Operating System: 
-Windows                  3 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -129,5 +129,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2024 00:38:49 UTC
+ Last Updated on 29/08/2024 00:39:09 UTC
 <!--END_SECTION:waka-->
