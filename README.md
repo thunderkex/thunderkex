@@ -1,4 +1,3 @@
-<h1 align="center"><picture><img src="https://github.com/thunderkex/thunderkex/blob/main/shitspace/hello.gif?raw=true"></picture></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Ha+ha!+I+am+here!;Told+you+a+storm+was+coming!" alt="Typing SVG" /></a>
 </p>
@@ -8,7 +7,7 @@
 <picture> <img align="right" src="https://github.com/thunderkex/thunderkex/blob/main/shitspace/bongo-cat-codes.gif?raw=true"></picture>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Full stack developer.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="25" height="25" /> Useless (at something).
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="25" height="25" /> The Fool.
 
 ### <picture> <img src = "https://github.com/thunderkex/thunderkex/blob/main/shitspace/os.gif?raw=true" width = 30px> </picture> Operating Systems
 
