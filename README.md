@@ -71,8 +71,6 @@
 ## <picture> <img src = "https://github.com/thunderkex/thunderkex/blob/main/shitspace/metrics.gif?raw=true" width = 50px> </picture> Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs%2018%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
@@ -134,5 +132,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2024 00:44:56 UTC
+ Last Updated on 01/12/2024 00:56:06 UTC
 <!--END_SECTION:waka-->
