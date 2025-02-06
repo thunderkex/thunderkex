@@ -3,18 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Ha+ha!+I+am+here!;Told+you+a+storm+was+coming!" alt="Typing SVG" />
 </a>
 
-<h4>
-  <b><a href="#about-me">About Me</a></b>
-  •
-  <b><a href="#tech-stack">Tech Stack</a></b>
-  •
-  <b><a href="#github-stats">GitHub Stats</a></b>
-  •
-  <a href="#recent-activity">Recent Activity</a>
-  •
-  <a href="#dev-metrics">Dev Metrics</a>
-</h4>
-
 ## 👋 About Me
 - Passionate Full Stack Developer dedicated to building innovative solutions
 - Always open to collaborating on exciting projects
@@ -29,24 +17,21 @@
 <a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"></a>
 
 ## 📊 GitHub Stats
-<details>
-<summary>View Stats</summary>
-<img src="https://streak-stats.demolab.com?user=thunderkex&theme=tokyonight-duo&border_radius=20" alt="Streak Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=thunderkex&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</details>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=thunderkex&theme=tokyonight-duo&border_radius=20" alt="Streak Stats" width="130" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thunderkex&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="130" />
+</div>
 
 ## ⚡ Recent Activity
 <h4>Watch my contribution graph get eaten by the snake 🐍</h4>
-<img width="900em" alt="thunderkex's Github commit snake" src="https://raw.githubusercontent.com/thunderkex/thunderkex/output/grid-snake-ov.svg" />
+<img width="600em" alt="thunderkex's Github commit snake" src="https://raw.githubusercontent.com/thunderkex/thunderkex/output/grid-snake-ov.svg" />
 
 <h4>Isometric view of contributions in the last year.</h4>
 <a href="./profile-3d-contrib/profile-night-green.svg">
-	<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	<img width="600em" src="./profile-3d-contrib/profile-night-green.svg">
 </a>
 
 ## 📈 Dev Metrics
-<img src="https://github.com/thunderkex/thunderkex/blob/main/shitspace/metrics.gif?raw=true" width="50px" alt="Metrics" />
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C007%20hrs%209%20mins-blue)
 
