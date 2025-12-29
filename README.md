@@ -1,35 +1,71 @@
-<div align="center" style="max-width: 900px; margin: auto;">
-<a href="https://github.com/thunderkex">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Ha+ha!+I+am+here!;Told+you+a+storm+was+coming!" alt="Typing SVG" />
-</a>
-
-## 👋 About Me
-- Passionate Full Stack Developer dedicated to building innovative solutions
-- Always open to collaborating on exciting projects
-
-## 🛠️ Tech Stack
-### Operating Systems
-<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
-
-### Hardware
-<a href="#"><img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"></a>
-
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thunderkex&theme=tokyonight-duo&border_radius=20" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=thunderkex&show_icons=true&theme=tokyonight&border_radius=20" alt="GitHub Stats" />
+  <a href="https://github.com/thunderkex">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Ha+ha!+I+am+here!;Told+you+a+storm+was+coming!" alt="Typing SVG" />
+  </a>
 </div>
 
-## ⚡ Recent Activity
-<h4>Watch my contribution graph get eaten by the snake 🐍</h4>
-<img width="600em" alt="thunderkex's Github commit snake" src="https://raw.githubusercontent.com/thunderkex/thunderkex/output/grid-snake-ov.svg" />
+<br/>
 
-<h4>Isometric view of contributions in the last year.</h4>
-<a href="./profile-3d-contrib/profile-night-green.svg">
-	<img width="600em" src="./profile-3d-contrib/profile-night-green.svg">
-</a>
+## 👋 About Me
+
+Hey there! I'm a **Full Stack Developer** 👨‍💻 with a passion for building intelligent, scalable solutions. I specialize in:
+
+- 🌐 **Cloud Architecture** - Designing robust backend systems and APIs
+- 💻 **Cross-Platform Development** - From web applications to IoT devices  
+- 📊 **Data-Driven Solutions** - Transforming data into actionable insights
+- 🤖 **AI & Machine Learning** - Building intelligent systems
+- 🔧 **Automation** - Making things work smarter, not harder
+
+### 🤝 Let's Connect:
+
+💡 I'm always eager to collaborate on innovative projects, especially those involving **automation** and **smart systems**. Let's build something amazing together! 🚀
+
+<br clear="both"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,kotlin,java" alt="Languages" />
+</p>
+
+### 🚀 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tensorflow" alt="Frameworks" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" alt="Databases" />
+</p>
+
+### 🛠️ Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git" alt="Tools" />
+</p>
+
+### 💻 Operating Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows" alt="Operating Systems" />
+</p>
+
+### ⚡ Hardware & IoT
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" alt="Hardware & IoT" />
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=thunderkex&theme=tokyonight-duo&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="🔥 Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thunderkex&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="📈 GitHub Stats" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderkex&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="💬 Top Languages" />
+</div>
 
 ## 📈 Dev Metrics
 <!--START_SECTION:waka-->
@@ -73,7 +109,6 @@ JavaScript               25 mins             ███░░░░░░░░�
 XML                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 
 🐱‍💻 Projects: 
-AI-Trader                1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   31.71 % 
 idaxx                    1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   30.22 % 
 dbtoxml                  1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
 idx                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
@@ -98,4 +133,34 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
  Last Updated on 28/12/2025 02:23:04 UTC
 <!--END_SECTION:waka-->
+
+---
+
+## ⚡ Visual Activity
+
+<details>
+<summary>🎬 Click to see contribution animations ✨</summary>
+
+<div align="center">
+<h4>🐍 Watch my contribution graph get eaten by the snake!</h4>
+<img width="100%" style="max-width: 800px;" alt="thunderkex's Github commit snake" src="https://raw.githubusercontent.com/thunderkex/thunderkex/output/grid-snake-ov.svg" />
+
+<h4>📊 Isometric view of contributions in the last year 🎨</h4>
+<a href="./profile-3d-contrib/profile-night-green.svg">
+	<img width="100%" style="max-width: 800px;" src="./profile-3d-contrib/profile-night-green.svg">
+</a>
+</div>
+
+</details>
+
+---
+
+<div align="center">
+
+### 💬 "Building the future, one commit at a time" 🚀
+
+<img src="https://komarev.com/ghpvc/?username=thunderkex&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+#### 🌟 Show some ❤️ by starring some repositories! 🌟
+
 </div>
