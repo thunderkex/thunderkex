@@ -59,7 +59,6 @@ Hey there! I'm a **Full Stack Developer** 👨‍💻 with a passion for buildin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=thunderkex&theme=tokyonight-duo&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="🔥 Streak Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thunderkex&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="📈 GitHub Stats" />
 </div>
 
@@ -155,13 +154,3 @@ Batchfile                1 repo              █░░░░░░░░░░�
 </details>
 
 ---
-
-<div align="center">
-
-### 💬 "Building the future, one commit at a time" 🚀
-
-<img src="https://komarev.com/ghpvc/?username=thunderkex&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
-#### 🌟 Show some ❤️ by starring some repositories! 🌟
-
-</div>
