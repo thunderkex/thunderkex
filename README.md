@@ -59,11 +59,11 @@ Hey there! I'm a **Full Stack Developer** 👨‍💻 with a passion for buildin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thunderkex&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="📈 GitHub Stats" />
+  <img width="49%" src="https://helio-github-stats.vercel.app/api?username=thunderkex&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="📈 GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderkex&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="💬 Top Languages" />
+  <img width="49%" src="https://helio-github-stats.vercel.app/api/top-langs/?username=thunderkex&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="💬 Top Languages" />
 </div>
 
 ## 📈 Dev Metrics
