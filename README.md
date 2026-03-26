@@ -70,7 +70,7 @@ Hey there! I'm a **Full Stack Developer** 👨‍💻 with a passion for buildin
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C840%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.55%20million%20lines%20of%20code-blue?style=flat)
 
@@ -101,20 +101,13 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      3 hrs 18 mins       ███████████░░░░░░░░░░░░░░   43.07 % 
-C++                      2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
-Markdown                 56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-TOML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tes go                   4 hrs 6 mins        █████████████░░░░░░░░░░░░   53.49 % 
-orion                    3 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.89 % 
-revanced-extended        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-mms                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,7 +123,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/03/2026 02:38:25 UTC
+ Last Updated on 26/03/2026 02:51:08 UTC
 <!--END_SECTION:waka-->
 
 ---
