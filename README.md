@@ -68,24 +68,71 @@ Hey there! I'm a **Full Stack Developer** 👨‍💻 with a passion for buildin
 
 ## 📈 Dev Metrics
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C972%20hrs%204%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.68%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.73%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1562 commits        ██████████████░░░░░░░░░░░   55.29 % 
+🌆 Daytime                1010 commits        █████████░░░░░░░░░░░░░░░░   35.75 % 
+🌃 Evening                211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   593 commits         █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Tuesday                  540 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Wednesday                412 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Thursday                 556 commits         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Friday                   539 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Saturday                 125 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Sunday                   60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      10 hrs 35 mins      █████████████████████░░░░   83.55 % 
+Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Makefile                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+
+🐱‍💻 Projects: 
+cms                      9 hrs 16 mins       ██████████████████░░░░░░░   73.06 % 
+revanced-extended        49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+controllers              30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+LiveEvent                28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+mms                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+
+💻 Operating System: 
+Windows                  11 hrs 6 mins       ██████████████████████░░░   87.57 % 
+Linux                    1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Starlark                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Starlark                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
 
 
- Last Updated on 19/05/2026 04:05:16 UTC
+ Last Updated on 21/05/2026 04:14:52 UTC
 <!--END_SECTION:waka-->
 
 ---
