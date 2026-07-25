@@ -68,30 +68,28 @@ Hey there! I'm a **Full Stack Developer** 👨‍💻 with a passion for buildin
 
 ## 📈 Dev Metrics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C147%20hrs%2049%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.63%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.61%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1561 commits        ██████████████░░░░░░░░░░░   54.50 % 
-🌆 Daytime                1022 commits        █████████░░░░░░░░░░░░░░░░   35.68 % 
-🌃 Evening                211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-🌙 Night                  70 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+🌞 Morning                1454 commits        █████████████░░░░░░░░░░░░   53.97 % 
+🌆 Daytime                959 commits         █████████░░░░░░░░░░░░░░░░   35.60 % 
+🌃 Evening                211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+🌙 Night                  70 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   597 commits         █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Tuesday                  545 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Wednesday                417 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Thursday                 567 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Friday                   549 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Saturday                 130 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Sunday                   59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Monday                   551 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Tuesday                  493 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Wednesday                399 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Thursday                 541 commits         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Friday                   526 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Saturday                 130 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Sunday                   54 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
@@ -101,21 +99,21 @@ Sunday                   59 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      21 hrs 19 mins      █████████████████████░░░░   82.64 % 
-JavaScript               1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-XML                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+PHP                      17 hrs 20 mins      ███████████████████░░░░░░   75.67 % 
+JavaScript               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Dart                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+XML                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🐱‍💻 Projects: 
-cms                      10 hrs 52 mins      ███████████░░░░░░░░░░░░░░   42.14 % 
-orion                    6 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-moorlife_creator         4 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-mmm-compro               1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-android_device_xiaomi_mun53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+cms                      8 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.70 % 
+orion                    6 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+moorlife_creator         2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+wms-apps                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+nexgapi                  1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 💻 Operating System: 
-Windows                  25 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,7 +129,7 @@ Starlark                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 03:24:06 UTC
+ Last Updated on 25/07/2026 03:16:50 UTC
 <!--END_SECTION:waka-->
 
 ---
