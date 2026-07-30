@@ -68,32 +68,28 @@ Hey there! I'm a **Full Stack Developer** 👨‍💻 with a passion for buildin
 
 ## 📈 Dev Metrics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C901%20hrs%2024%20mins-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-197%20hrs%2010%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.63%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.79%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1574 commits        ██████████████░░░░░░░░░░░   54.67 % 
-🌆 Daytime                1024 commits        █████████░░░░░░░░░░░░░░░░   35.57 % 
-🌃 Evening                211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-🌙 Night                  70 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+🌞 Morning                1567 commits        ██████████████░░░░░░░░░░░   54.09 % 
+🌆 Daytime                1053 commits        █████████░░░░░░░░░░░░░░░░   36.35 % 
+🌃 Evening                211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+🌙 Night                  66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   598 commits         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-Tuesday                  545 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Wednesday                415 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Thursday                 576 commits         █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-Friday                   556 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Saturday                 130 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Sunday                   59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Monday                   581 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Tuesday                  541 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Wednesday                441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Thursday                 581 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Friday                   556 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Saturday                 136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Sunday                   61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
 
 
@@ -103,61 +99,61 @@ Sunday                   59 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      16 hrs 16 mins      ███████████████████░░░░░░   74.59 % 
-JavaScript               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Dart                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-XML                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+PHP                      13 hrs 47 mins      ██████████████░░░░░░░░░░░   56.49 % 
+Other                    2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+JavaScript               1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Dart                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+CSS                      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 🐱‍💻 Projects: 
-orion                    8 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   39.41 % 
-cms                      5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-moorlife_creator         1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-wms-apps                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-nexgapi                  1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+orion                    5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+moorlife_creator         4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+cms                      3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+wms-apps                 2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+hardware_dolby           1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 
 💻 Operating System: 
-Windows                  21 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 12 mins (60.59%)
+⏱ AI Coding Time: 14 hrs 9 mins (58.0%)
 
-✍️ 1,743 lines written by AI, 602 lines written by hand (74.33% AI-written)
+✍️ 2,947 lines written by AI, 1,718 lines written by hand (63.17% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 917,818 Input Tokens, 9,843 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $2.90 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 203 AI Prompts
+🧠 30 AI Sessions, 235 AI Prompts
 
-Gemini                   1,735 lines         ██████████████████░░░░░░░   70.53 % 
-Sonnet                   716 lines           ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-Antigravity-Ide          9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Github-Copilot           1,863 lines         ███████████████░░░░░░░░░░   60.70 % 
+Sonnet                   729 lines           ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Gemini                   477 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.33% of written lines came from AI
-📄 Detailed Prompter — average 517 characters per prompt
+⚖️ Balanced with AI — 63.17% of written lines came from AI
+📄 Detailed Prompter — average 546 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 46.78% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 55.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Starlark                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Starlark                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
 
 
- Last Updated on 28/07/2026 02:55:04 UTC
+ Last Updated on 30/07/2026 02:46:59 UTC
 <!--END_SECTION:waka-->
 
 ---
