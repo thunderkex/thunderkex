@@ -68,7 +68,11 @@ Hey there! I'm a **Full Stack Developer** 👨‍💻 with a passion for buildin
 
 ## 📈 Dev Metrics
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C913%20hrs%2058%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-203%20hrs%2049%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.79%20million%20lines%20of%20code-blue?style=flat)
 
@@ -99,45 +103,45 @@ Sunday                   61 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      13 hrs 47 mins      ██████████████░░░░░░░░░░░   56.49 % 
-Other                    2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-JavaScript               1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Dart                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-CSS                      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+PHP                      17 hrs 51 mins      ████████████████░░░░░░░░░   65.15 % 
+JavaScript               2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Other                    2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+CSS                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Dart                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🐱‍💻 Projects: 
-orion                    5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-moorlife_creator         4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-cms                      3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-wms-apps                 2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-hardware_dolby           1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+orion                    9 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   35.33 % 
+cms                      5 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+moorlife_creator         3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+wms-api                  2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+hardware_dolby           1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 💻 Operating System: 
-Windows                  24 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 9 mins (58.0%)
+⏱ AI Coding Time: 8 hrs 12 mins (29.95%)
 
-✍️ 2,947 lines written by AI, 1,718 lines written by hand (63.17% AI-written)
+✍️ 6,065 lines written by AI, 3,042 lines written by hand (66.6% AI-written)
 
-🔤 917,818 Input Tokens, 9,843 Output Tokens
+🔤 1,057,046 Input Tokens, 11,910 Output Tokens
 
-💵 $2.90 Estimated AI Cost This Week
+💵 $3.35 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 235 AI Prompts
+🧠 22 AI Sessions, 137 AI Prompts
 
-Github-Copilot           1,863 lines         ███████████████░░░░░░░░░░   60.70 % 
-Sonnet                   729 lines           ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Gemini                   477 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Github-Copilot           6,056 lines         █████████████████████████   99.54 % 
+Gemini                   15 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Sonnet                   13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.17% of written lines came from AI
-📄 Detailed Prompter — average 546 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 55.68% of changed lines were hand-edited
+🤖 AI-Driven — 66.6% of written lines came from AI
+📝 Concise Prompter — average 446 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 55.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -153,7 +157,7 @@ Starlark                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 02:46:59 UTC
+ Last Updated on 01/08/2026 03:29:02 UTC
 <!--END_SECTION:waka-->
 
 ---
