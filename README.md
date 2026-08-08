@@ -68,10 +68,6 @@ Hey there! I'm a **Full Stack Developer** 👨‍💻 with a passion for buildin
 
 ## 📈 Dev Metrics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C933%20hrs%2027%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-210%20hrs%207%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.85%20million%20lines%20of%20code-blue?style=flat)
@@ -79,20 +75,20 @@ Hey there! I'm a **Full Stack Developer** 👨‍💻 with a passion for buildin
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1999 commits        ██████████████░░░░░░░░░░░   55.67 % 
-🌆 Daytime                1313 commits        █████████░░░░░░░░░░░░░░░░   36.56 % 
-🌃 Evening                211 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-🌙 Night                  68 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+🌞 Morning                1999 commits        ██████████████░░░░░░░░░░░   55.65 % 
+🌆 Daytime                1313 commits        █████████░░░░░░░░░░░░░░░░   36.55 % 
+🌃 Evening                211 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+🌙 Night                  69 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   769 commits         █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Tuesday                  750 commits         █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Wednesday                513 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Tuesday                  750 commits         █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Wednesday                513 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 Thursday                 686 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Friday                   656 commits         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Saturday                 136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Friday                   656 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Saturday                 137 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 Sunday                   81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 
@@ -103,44 +99,46 @@ Sunday                   81 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      19 hrs 47 mins      ████████████████░░░░░░░░░   62.44 % 
-Markdown                 3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-CSS                      3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-JavaScript               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Dart                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+PHP                      22 hrs 3 mins       █████████████████░░░░░░░░   66.16 % 
+Markdown                 4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+CSS                      3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Bash                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 🐱‍💻 Projects: 
-moorlife_creator         15 hrs 38 mins      ████████████░░░░░░░░░░░░░   49.37 % 
-orion                    5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-cms                      4 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-wms-api                  2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-wms-apps                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+moorlife_creator         15 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.10 % 
+moorlife_creator_ci4     14 hrs 40 mins      ███████████░░░░░░░░░░░░░░   44.03 % 
+cms                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+hardware_dolby           31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+wms-apps                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-Windows                  31 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 36 mins (27.18%)
+⏱ AI Coding Time: 10 hrs 35 mins (31.76%)
 
-✍️ 7,574 lines written by AI, 5,636 lines written by hand (57.34% AI-written)
+✍️ 3,926 lines written by AI, 7,055 lines written by hand (35.75% AI-written)
 
-🔤 415,248 Input Tokens, 3,712 Output Tokens
+🔤 276,020 Input Tokens, 1,645 Output Tokens
 
-💵 $1.30 Estimated AI Cost This Week
+💵 $0.85 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 140 AI Prompts
+🧠 26 AI Sessions, 356 AI Prompts
 
-Github-Copilot           6,684 lines         ██████████████████████░░░   88.18 % 
-Composer                 896 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Github-Copilot           2,615 lines         █████████████████░░░░░░░░   66.34 % 
+Composer                 896 lines           ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Sonnet                   386 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Gemini                   45 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.34% of written lines came from AI
-📝 Concise Prompter — average 226 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 58.67% of changed lines were hand-edited
+⚖️ Balanced with AI — 35.75% of written lines came from AI
+📝 Concise Prompter — average 141 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 99.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -156,7 +154,7 @@ Starlark                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 02:58:23 UTC
+ Last Updated on 08/08/2026 01:58:56 UTC
 <!--END_SECTION:waka-->
 
 ---
