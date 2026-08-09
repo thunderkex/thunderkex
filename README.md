@@ -68,6 +68,10 @@ Hey there! I'm a **Full Stack Developer** 👨‍💻 with a passion for buildin
 
 ## 📈 Dev Metrics
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C959%20hrs%2014%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-216%20hrs%205%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.85%20million%20lines%20of%20code-blue?style=flat)
@@ -154,7 +158,7 @@ Starlark                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 01:58:56 UTC
+ Last Updated on 09/08/2026 02:06:57 UTC
 <!--END_SECTION:waka-->
 
 ---
