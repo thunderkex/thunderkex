@@ -74,26 +74,26 @@ Hey there! I'm a **Full Stack Developer** 👨‍💻 with a passion for buildin
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.85%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.86%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1999 commits        ██████████████░░░░░░░░░░░   55.65 % 
-🌆 Daytime                1313 commits        █████████░░░░░░░░░░░░░░░░   36.55 % 
-🌃 Evening                211 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-🌙 Night                  69 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+🌞 Morning                2004 commits        ██████████████░░░░░░░░░░░   55.70 % 
+🌆 Daytime                1313 commits        █████████░░░░░░░░░░░░░░░░   36.49 % 
+🌃 Evening                211 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+🌙 Night                  70 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   769 commits         █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Tuesday                  750 commits         █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-Wednesday                513 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Thursday                 686 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Friday                   656 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Monday                   774 commits         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Tuesday                  751 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Wednesday                513 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Thursday                 686 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Friday                   656 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
 Saturday                 137 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Sunday                   81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Sunday                   81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 
 
@@ -103,46 +103,46 @@ Sunday                   81 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      22 hrs 3 mins       █████████████████░░░░░░░░   66.16 % 
-Markdown                 4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-CSS                      3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Bash                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+PHP                      22 hrs 32 mins      ██████████████████░░░░░░░   70.46 % 
+Markdown                 3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Bash                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+CSS                      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 🐱‍💻 Projects: 
-moorlife_creator         15 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.10 % 
-moorlife_creator_ci4     14 hrs 40 mins      ███████████░░░░░░░░░░░░░░   44.03 % 
-cms                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-hardware_dolby           31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-wms-apps                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+moorlife_creator_ci4     18 hrs 51 mins      ███████████████░░░░░░░░░░   58.94 % 
+moorlife_creator         10 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   31.68 % 
+android_device_xiaomi_mun47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+cms                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+hardware_dolby           31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Windows                  33 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 35 mins (31.76%)
+⏱ AI Coding Time: 11 hrs 14 mins (35.12%)
 
-✍️ 3,926 lines written by AI, 7,055 lines written by hand (35.75% AI-written)
+✍️ 2,338 lines written by AI, 5,076 lines written by hand (31.53% AI-written)
 
 🔤 276,020 Input Tokens, 1,645 Output Tokens
 
 💵 $0.85 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 356 AI Prompts
+🧠 22 AI Sessions, 336 AI Prompts
 
-Github-Copilot           2,615 lines         █████████████████░░░░░░░░   66.34 % 
-Composer                 896 lines           ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Sonnet                   386 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Gemini                   45 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Gemini                   943 lines           █████████░░░░░░░░░░░░░░░░   34.04 % 
+Composer                 896 lines           ████████░░░░░░░░░░░░░░░░░   32.35 % 
+Sonnet                   690 lines           ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+Github-Copilot           241 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 35.75% of written lines came from AI
-📝 Concise Prompter — average 141 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🔍 Hands-On Reviewer — 99.11% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 31.53% of written lines came from AI
+📝 Concise Prompter — average 313 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🔍 Hands-On Reviewer — 99.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -158,7 +158,7 @@ Starlark                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 02:06:57 UTC
+ Last Updated on 11/08/2026 02:06:06 UTC
 <!--END_SECTION:waka-->
 
 ---
