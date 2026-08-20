@@ -72,28 +72,28 @@ Hey there! I'm a **Full Stack Developer** 👨‍💻 with a passion for buildin
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.90%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.91%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2126 commits        ██████████████░░░░░░░░░░░   55.77 % 
-🌆 Daytime                1402 commits        █████████░░░░░░░░░░░░░░░░   36.78 % 
-🌃 Evening                211 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-🌙 Night                  73 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+🌞 Morning                2137 commits        ██████████████░░░░░░░░░░░   55.62 % 
+🌆 Daytime                1421 commits        █████████░░░░░░░░░░░░░░░░   36.99 % 
+🌃 Evening                211 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+🌙 Night                  73 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   808 commits         █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Tuesday                  788 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Wednesday                556 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Thursday                 736 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Friday                   698 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Saturday                 143 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Sunday                   83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Monday                   808 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Tuesday                  797 commits         █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Wednesday                577 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Thursday                 736 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Friday                   698 commits         █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Saturday                 143 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Sunday                   83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 
 
@@ -103,44 +103,44 @@ Sunday                   83 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      8 hrs 59 mins       ███████████░░░░░░░░░░░░░░   42.59 % 
-Other                    2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Markdown                 1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-XML                      1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Makefile                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+PHP                      6 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.24 % 
+XML                      2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Other                    2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Kotlin                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 
 🐱‍💻 Projects: 
-moorlife_creator_ci4broke9 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.01 % 
-android_device_xiaomi_mun3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-hardware_dolby           2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-cms                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-socialmedia_scraper      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+android_device_xiaomi_mun9 hrs 4 mins        ███████████░░░░░░░░░░░░░░   42.84 % 
+moorlife_creator_ci4broke4 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+socialmedia_scraper      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+cms                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+mmm-compro               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 💻 Operating System: 
-Windows                  21 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  21 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 58 mins (75.63%)
+⏱ AI Coding Time: 17 hrs 41 mins (83.45%)
 
-✍️ 2,159 lines written by AI, 5,744 lines written by hand (27.32% AI-written)
+✍️ 2,715 lines written by AI, 1,086 lines written by hand (71.43% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 329 AI Prompts
+🧠 61 AI Sessions, 290 AI Prompts
 
-Gemini                   2,554 lines         ███████████████████████░░   91.64 % 
-Sonnet                   233 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Gemini                   3,126 lines         █████████████████████░░░░   84.28 % 
+Sonnet                   583 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 27.32% of written lines came from AI
-📄 Detailed Prompter — average 528 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 98.8% of changed lines were hand-edited
+🤖 AI-Driven — 71.43% of written lines came from AI
+📝 Concise Prompter — average 464 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 34.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -156,7 +156,7 @@ Starlark                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 01:29:34 UTC
+ Last Updated on 20/08/2026 01:36:42 UTC
 <!--END_SECTION:waka-->
 
 ---
