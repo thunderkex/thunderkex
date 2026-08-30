@@ -58,7 +58,7 @@ Open to collaboration on things that are actually interesting — IoT, custom An
 
 ## Dev Metrics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C016%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C029%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
 
@@ -91,21 +91,21 @@ Sunday                   90 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               8 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-Markdown                 5 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-PHP                      3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-TypeScript               3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-JSON                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+JavaScript               8 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+Markdown                 5 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+TypeScript               4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+PHP                      3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+JSON                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🐱‍💻 Projects: 
-9router                  14 hrs 25 mins      ████████████░░░░░░░░░░░░░   48.30 % 
-urunin                   3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-moorlife_creator_ci4broke3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-auto generate            1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-orion                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+9router                  14 hrs 25 mins      ████████████░░░░░░░░░░░░░   46.58 % 
+urunin                   4 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+moorlife_creator_ci4broke3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+auto generate            1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+orion                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 💻 Operating System: 
-Windows                  29 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +121,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 06:35:14 UTC
+ Last Updated on 30/08/2026 04:47:53 UTC
 <!--END_SECTION:waka-->
 
 ---
