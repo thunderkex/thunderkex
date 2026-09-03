@@ -58,30 +58,30 @@ Open to collaboration on things that are actually interesting — IoT, custom An
 
 ## Dev Metrics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C030%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C038%20hrs%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.01%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2591 commits        ██████████████░░░░░░░░░░░   56.87 % 
-🌆 Daytime                1678 commits        █████████░░░░░░░░░░░░░░░░   36.83 % 
-🌃 Evening                211 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-🌙 Night                  76 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+🌞 Morning                2566 commits        ██████████████░░░░░░░░░░░   56.80 % 
+🌆 Daytime                1665 commits        █████████░░░░░░░░░░░░░░░░   36.85 % 
+🌃 Evening                211 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+🌙 Night                  76 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   985 commits         █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Tuesday                  953 commits         █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-Wednesday                659 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Thursday                 881 commits         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-Friday                   818 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Saturday                 165 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Sunday                   95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Monday                   979 commits         █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+Tuesday                  939 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Wednesday                654 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Thursday                 881 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Friday                   805 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Saturday                 165 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Sunday                   95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 
 
@@ -91,21 +91,21 @@ Sunday                   95 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               9 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-TypeScript               6 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-PHP                      3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Markdown                 3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Other                    2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+JavaScript               10 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+TypeScript               7 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Markdown                 6 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+PHP                      3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+JSON                     3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 🐱‍💻 Projects: 
-9router                  12 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   40.32 % 
-urunin                   7 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-moorlife_creator_ci4broke3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-auto generate            1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-orion                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+9router                  14 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   35.59 % 
+urunin                   8 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+lini                     4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+moorlife_creator_ci4broke3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+auto generate            1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 💻 Operating System: 
-Windows                  31 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  39 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +121,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 04:31:08 UTC
+ Last Updated on 03/09/2026 03:53:58 UTC
 <!--END_SECTION:waka-->
 
 ---
