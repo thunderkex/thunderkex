@@ -58,7 +58,7 @@ Open to collaboration on things that are actually interesting — IoT, custom An
 
 ## Dev Metrics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C053%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C062%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue?style=flat)
 
@@ -91,21 +91,21 @@ Sunday                   95 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               9 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-Markdown                 6 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-TypeScript               5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-JSON                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Other                    2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+JavaScript               9 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.23 % 
+Markdown                 6 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+TypeScript               4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+JSON                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Other                    2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
 
 🐱‍💻 Projects: 
-9router                  13 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   39.72 % 
-urunin                   6 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-lini                     4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-revanced extended        2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-moorlife_creator_ci4broke1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+9router                  13 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   41.03 % 
+urunin                   5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+lini                     4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+revanced extended        2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+moorlife_creator_ci4broke1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 💻 Operating System: 
-Windows                  34 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +121,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 03:53:00 UTC
+ Last Updated on 06/09/2026 03:57:40 UTC
 <!--END_SECTION:waka-->
 
 ---
