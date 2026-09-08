@@ -91,21 +91,21 @@ Sunday                   95 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               9 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-Markdown                 6 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-TypeScript               4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-JSON                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Other                    2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+JavaScript               6 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Markdown                 6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+TypeScript               2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+JSON                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Other                    1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 🐱‍💻 Projects: 
-9router                  13 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   41.03 % 
-urunin                   5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-lini                     4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-revanced extended        2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-moorlife_creator_ci4broke1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+9router                  9 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.48 % 
+lini                     4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+urunin                   2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+revanced extended        2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+moorlife_creator_ci4broke1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 💻 Operating System: 
-Windows                  33 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +121,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 03:57:40 UTC
+ Last Updated on 08/09/2026 04:00:02 UTC
 <!--END_SECTION:waka-->
 
 ---
