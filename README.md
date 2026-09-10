@@ -60,28 +60,28 @@ Open to collaboration on things that are actually interesting — IoT, custom An
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C062%20hrs%206%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.01%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2566 commits        ██████████████░░░░░░░░░░░   56.80 % 
-🌆 Daytime                1665 commits        █████████░░░░░░░░░░░░░░░░   36.85 % 
-🌃 Evening                211 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-🌙 Night                  76 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+🌞 Morning                2602 commits        ██████████████░░░░░░░░░░░   56.82 % 
+🌆 Daytime                1690 commits        █████████░░░░░░░░░░░░░░░░   36.91 % 
+🌃 Evening                211 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+🌙 Night                  76 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   979 commits         █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-Tuesday                  939 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Wednesday                654 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Thursday                 881 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Friday                   805 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Saturday                 165 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Sunday                   95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Monday                   985 commits         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Tuesday                  956 commits         █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Wednesday                668 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Thursday                 892 commits         █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Friday                   818 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Saturday                 165 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Sunday                   95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 ```
 
 
@@ -91,21 +91,21 @@ Sunday                   95 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               6 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-Markdown                 6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-TypeScript               2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-JSON                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Other                    1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+PHP                      4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+JavaScript               2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Other                    2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Markdown                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Rust                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 🐱‍💻 Projects: 
-9router                  9 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.48 % 
-lini                     4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-urunin                   2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-revanced extended        2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-moorlife_creator_ci4broke1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+moorlife_creator_ci4broke6 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+revanced extended        4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+9router                  3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+android_device_xiaomi_mun2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+urunin                   1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 
 💻 Operating System: 
-Windows                  25 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +121,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 04:00:02 UTC
+ Last Updated on 10/09/2026 04:03:44 UTC
 <!--END_SECTION:waka-->
 
 ---
