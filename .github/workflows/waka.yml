@@ -24,7 +24,7 @@ jobs:
 
           SHOW_OS: "True"
 
-          SHOW_PROJECTS: "True"
+          SHOW_PROJECTS: "false"
 
           SHOW_PROFILE_VIEWS: "True"
 
