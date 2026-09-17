@@ -38,6 +38,63 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C091%20hrs%2051%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.25%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2555 commits        ███████████████░░░░░░░░░░   59.23 % 
+🌆 Daytime                1750 commits        ██████████░░░░░░░░░░░░░░░   40.57 % 
+🌃 Evening                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   958 commits         ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+Tuesday                  925 commits         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Wednesday                649 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Thursday                 833 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Friday                   757 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Saturday                 123 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Sunday                   69 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+YAML                     9 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   30.27 % 
+Rust                     6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Markdown                 4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Other                    2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+JavaScript               1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+
+💻 Operating System: 
+Windows                  32 hrs 37 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+```
+
+
+
+
+ Last Updated on 17/09/2026 04:22:19 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
