@@ -42,26 +42,26 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.24%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.25%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2545 commits        ███████████████░░░░░░░░░░   59.34 % 
-🌆 Daytime                1718 commits        ██████████░░░░░░░░░░░░░░░   40.06 % 
+🌞 Morning                2563 commits        ███████████████░░░░░░░░░░   58.91 % 
+🌆 Daytime                1759 commits        ██████████░░░░░░░░░░░░░░░   40.43 % 
 🌃 Evening                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+🌙 Night                  28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   958 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-Tuesday                  925 commits         █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Wednesday                617 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Thursday                 821 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Friday                   776 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Saturday                 123 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Sunday                   69 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Monday                   962 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+Tuesday                  937 commits         █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Wednesday                639 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Thursday                 842 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Friday                   779 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Saturday                 123 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Sunday                   69 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
@@ -71,30 +71,30 @@ Sunday                   69 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-YAML                     10 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-Rust                     6 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-JavaScript               4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Markdown                 3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Other                    1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+YAML                     5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+JavaScript               5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Rust                     4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Markdown                 4 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Diff                     2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 
 💻 Operating System: 
-Windows                  34 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 20/09/2026 04:22:03 UTC
+ Last Updated on 22/09/2026 04:15:37 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
