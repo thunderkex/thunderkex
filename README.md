@@ -40,28 +40,28 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C204%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.23%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.24%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2692 commits        ███████████████░░░░░░░░░░   58.45 % 
-🌆 Daytime                1881 commits        ██████████░░░░░░░░░░░░░░░   40.84 % 
-🌃 Evening                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-🌙 Night                  30 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+🌞 Morning                2778 commits        ███████████████░░░░░░░░░░   58.19 % 
+🌆 Daytime                1944 commits        ██████████░░░░░░░░░░░░░░░   40.72 % 
+🌃 Evening                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+🌙 Night                  49 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1066 commits        ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-Tuesday                  992 commits         █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-Wednesday                636 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Thursday                 865 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Friday                   832 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Saturday                 134 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Sunday                   81 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Monday                   1101 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+Tuesday                  1037 commits        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Wednesday                672 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Thursday                 901 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Friday                   840 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Saturday                 140 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Sunday                   83 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 
 
@@ -71,15 +71,15 @@ Sunday                   81 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      15 hrs 58 mins      ██████████████████░░░░░░░   73.18 % 
-Bash                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Markdown                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-XML                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+PHP                      16 hrs 33 mins      ███████████████░░░░░░░░░░   61.74 % 
+Other                    2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Bash                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Markdown                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Makefile                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 💻 Operating System: 
-Windows                  18 hrs 41 mins      █████████████████████░░░░   85.61 % 
-Linux                    3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Windows                  23 hrs 40 mins      ██████████████████████░░░   88.28 % 
+Linux                    3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,7 +95,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 05:07:24 UTC
+ Last Updated on 13/10/2026 06:20:00 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
