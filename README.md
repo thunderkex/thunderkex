@@ -38,30 +38,30 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C204%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C207%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.24%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.26%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2778 commits        ███████████████░░░░░░░░░░   58.19 % 
-🌆 Daytime                1944 commits        ██████████░░░░░░░░░░░░░░░   40.72 % 
+🌞 Morning                2893 commits        ███████████████░░░░░░░░░░   58.15 % 
+🌆 Daytime                2030 commits        ██████████░░░░░░░░░░░░░░░   40.80 % 
 🌃 Evening                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-🌙 Night                  49 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+🌙 Night                  49 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1101 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-Tuesday                  1037 commits        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-Wednesday                672 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Thursday                 901 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Friday                   840 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Saturday                 140 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Sunday                   83 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Monday                   1153 commits        ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+Tuesday                  1089 commits        █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Wednesday                710 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Thursday                 930 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Friday                   865 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Saturday                 140 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Sunday                   88 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 
 
@@ -71,15 +71,15 @@ Sunday                   83 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      16 hrs 33 mins      ███████████████░░░░░░░░░░   61.74 % 
-Other                    2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Bash                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Markdown                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Makefile                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+PHP                      15 hrs 21 mins      ████████████░░░░░░░░░░░░░   47.67 % 
+Rust                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Other                    2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Kotlin                   1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+JavaScript               1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 💻 Operating System: 
-Windows                  23 hrs 40 mins      ██████████████████████░░░   88.28 % 
-Linux                    3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Windows                  31 hrs 27 mins      ████████████████████████░   97.69 % 
+Linux                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,7 +95,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 06:20:00 UTC
+ Last Updated on 15/10/2026 04:04:08 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
